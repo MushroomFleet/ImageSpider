@@ -1,0 +1,11 @@
+numpy==1.24.2
+torch==2.0.0
+torchvision==0.15.1
+faiss_cpu==1.7.3
+matplotlib==3.5.2
+pandas==1.4.3
+Pillow==9.5.0
+timm==0.6.13
+tqdm==4.65.0
+DeepImageSearch==2.5
+colorama==0.4.6  # For better progress bar display on Windows
